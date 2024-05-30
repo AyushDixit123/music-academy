@@ -1,9 +1,11 @@
-import Image from "next/image";
+
 
 export default function Home() {
   return (
     <>
-     hi
+     <main className="min-h-screen bg-black/[0.9]">
+      <h1>hi</h1>
+     </main>
 
     </>
   );
