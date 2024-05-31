@@ -37,7 +37,7 @@ export function Navbar({ className }: { className?: string }) {
                 
             </Menu>
         </div>
-        <div className="relative mt-9 ">
+        <div className="relative mt-10 ">
             <Button>register</Button>
         </div>
         </div>

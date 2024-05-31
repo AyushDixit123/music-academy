@@ -43,7 +43,7 @@ const musicschooltestimonals=[
             direction="right"
             speed="slow"
             className="h-64"
-          /> 
+          />  
         </div>
       );
 
